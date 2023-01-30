@@ -20,15 +20,15 @@
 б) сформулируем и проверим статистическую гипотезу относительно представленных данных.
 
 **Использованные библиотеки:**
-* pandas,
-* matplotlib,
-* seaborn,
-* scipy,
-* io,
-* requests,
-* warnings,
-* phik,
-* sklearn.
+* `pandas`,
+* `matplotlib`,
+* `seaborn`,
+* `scipy`,
+* `io`,
+* `requests`,
+* `warnings`,
+* `phik`,
+* `sklearn`.
 
 # 3. [Создание дэшборда](https://public.tableau.com/app/profile/dmitry2405/viz/_16625714415270/Dashboard1)
 
@@ -60,14 +60,14 @@
 в) покупки — purchase.
 
 **Использованные библиотеки:**
-* pandas,
-* io,
-* warnings,
-* requests,
-* plotly,
-* math,
-* scipy,
-* matplotlib.
+* `pandas`,
+* `io`,
+* `warnings`,
+* `requests`,
+* `plotly`,
+* `math`,
+* `scipy`,
+* `matplotlib`.
 
 # 5. [SQL](https://github.com/OStonks/YandexPracticum/blob/main/final_project/SQL-3.ipynb)
 
