@@ -1,6 +1,7 @@
 #  Создание дашборда по пользовательским событиям для агрегатора новостей
 
 [Ссылка на дэшборд](https://public.tableau.com/app/profile/dmitry2405/viz/_16592869473110/_)
+[Ссылка на презентацию](https://docs.google.com/presentation/d/1-XWWTetMLjAliTfDCWHoSjK4U_e9PGtWWe1jw4FhhIs/edit)
 
 Проект состоит из 2 частей.
 
