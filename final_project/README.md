@@ -60,7 +60,14 @@
 в) покупки — purchase.
 
 **Использованные библиотеки:**
-
+* pandas,
+* io,
+* warnings,
+* requests,
+* plotly,
+* math,
+* scipy,
+* matplotlib.
 
 # 5. [SQL](https://github.com/OStonks/YandexPracticum/blob/main/final_project/SQL-3.ipynb)
 
