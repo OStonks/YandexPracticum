@@ -59,6 +59,8 @@
 
 в) покупки — purchase.
 
+**Использованные библиотеки:**
+
 
 # 5. [SQL](https://github.com/OStonks/YandexPracticum/blob/main/final_project/SQL-3.ipynb)
 
