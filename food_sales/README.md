@@ -11,6 +11,16 @@
 
 # Используемые библиотеки:
 
+* pandas,
+* matplotlib,
+* plotly,
+* numpy,
+* warnings,
+* math,
+* scipy,
+* io,
+* requests.
 
 # Ключевы слова проекта:
+A/B-тест, визуализация, статистический тест
 
