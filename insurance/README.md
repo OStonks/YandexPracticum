@@ -1,5 +1,4 @@
-#  [1 задание](https://github.com/OStonks/Portfolio/blob/main/insurance/Задание%201.ipynb)
-#  [2 задание](https://github.com/OStonks/Portfolio/blob/main/insurance/Задание%202.ipynb)
+#  [1 задание](https://github.com/OStonks/Portfolio/blob/main/insurance/Задание%201.ipynb) и  [2 задание](https://github.com/OStonks/Portfolio/blob/main/insurance/Задание%202.ipynb)
 
 Данные задания были выполнены в качестве проверочного задания перед собеседованием в страховую компанию. Их сущность и содержание сводятся к тому, чтобы правильно распарсить данные, которые поступают в компанию в абсолютно разрозненном виде, и привести их к заранее согласованному шаблону.
 
